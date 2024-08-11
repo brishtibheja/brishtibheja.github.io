@@ -5,7 +5,6 @@
 - [Anki](https://apps.ankiweb.net/)
     
     <aside>
-    ⚙ **Optimization**
     
     - [Anki Manual](https://docs.ankiweb.net/#/)
         - [Cade's Blog on Optimization](https://cademcniven.com/posts/20210410/)
