@@ -1,15 +1,15 @@
 # Tech and Tools
 
+
 **SRS**
 
 - [Anki](https://apps.ankiweb.net/)
     
-    <aside>
+    
     
     - [Anki Manual](https://docs.ankiweb.net/#/)
         - [Cade's Blog on Optimization](https://cademcniven.com/posts/20210410/)
     - [Refold's Anki Setup](https://refold.la/roadmap/stage-1/a/anki-setup)
-    </aside>
     
 
 **Guides**
@@ -47,3 +47,4 @@
 
 - [controlaltbackspace](https://controlaltbackspace.org/categories/memory/)
 - [Supermemo Wiki](https://supermemo.guru/wiki/SuperMemo_Guru)
+- [Expertium's Blog](https://expertium.github.io)
