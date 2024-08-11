@@ -1,5 +1,6 @@
 # Tech and Tools
 
+___
 
 **SRS**
 
@@ -7,7 +8,7 @@
     
     
     
-    - [Anki Manual](https://docs.ankiweb.net/#/)
+    - [Anki Manual](https://docs.ankiweb.net/)
         - [Cade's Blog on Optimization](https://cademcniven.com/posts/20210410/)
     - [Refold's Anki Setup](https://refold.la/roadmap/stage-1/a/anki-setup)
     
