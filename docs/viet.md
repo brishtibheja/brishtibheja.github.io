@@ -55,7 +55,7 @@ SuperNinKenDo has both Northern and Southern dialect!
 **Others**
 
 - [Zoopdog](https://chromewebstore.google.com/detail/zoopdog/dpdbckfclpbpaklnobmmhjbpghcilbki?hl=en-US)
-- [Yomitan](https://github.com/StefanVukovic99/yezichak)
+- [Yomitan](https://github.com/themoeway/yomitan)
 - [Jidoujisho:](https://github.com/lrorpilla/jidoujisho) *is meant for Japanese but some features can be used with Vietnamese.*
 
 💡 Get dictionaries for the above two [here.](https://github.com/MarvNC/yomichan-dictionaries?tab=readme-ov-file#vietnamese-english)
