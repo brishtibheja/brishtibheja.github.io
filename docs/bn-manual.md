@@ -1,29 +1,45 @@
 # সারাংশ
 
-[ভূমিকা](intro.md)
+___
+
+ [ভূমিকা](intro.md)
 
 - [পটভূমি](background.md)
-- [প্ল্যাটফর্ম নোটস](platform/intro.md)
-  - [Windows](platform/windows/intro.md)
-    - [ইনস্টল এবং আপগ্রেড](platform/windows/installing.md)
-    - [ইনস্টলেশনের সমস্যা](platform/windows/installation-issues.md)
-    - [স্টার্টআপ সমস্যা](platform/windows/startup-issues.md)
-    - [ডিসপ্লে সমস্যা](platform/windows/display-issues.md)
-    - [কপি এবং পেস্ট সমস্যা](platform/windows/copy-and-paste.md)
-    - [টেক্সট সাইজ](platform/windows/text-size.md)
-    - [অনুমতি সমস্যা](platform/windows/permission-problems.md)
-  - [macOS](platform/mac/intro.md)
-    - [ইনস্টল এবং আপগ্রেড](platform/mac/installing.md)
-    - [ডিসপ্লে সমস্যা](platform/mac/display-issues.md)
-  - [Linux](platform/linux/intro.md)
-    - [ইনস্টল এবং আপগ্রেড](platform/linux/installing.md)
-    - [অনুপস্থিত লাইব্রেরি](platform/linux/missing-libraries.md)
-    - [ডিসপ্লে সমস্যা](platform/linux/display-issues.md)
-    - [ফাঁকা মেইন উইন্ডো](platform/linux/blank-window.md)
-    - [Linux ডিস্ট্রো প্যাকেজেস](platform/linux/distro-packages.md)
-    - [ভুল GTK থিম](platform/linux/gtk-theme.md)
-    - [Wayland](platform/linux/wayland.md)
-    - [ইনপুট মেথডস](platform/linux/input-methods.md)
+<details>
+<summary><a href="platform/intro.md">প্ল্যাটফর্ম নোটস</a> </summary>
+  <ul>
+  <li><a href="platform/windows/intro.md">Windows</a>
+    <ul>
+      <li><a href="platform/windows/installing.md">ইনস্টল এবং আপগ্রেড</a></li>
+      <li><a href="platform/windows/installation-issues.md">ইনস্টলেশনের সমস্যা</a></li>
+      <li><a href="platform/windows/startup-issues.md">স্টার্টআপ সমস্যা</a></li>
+      <li><a href="platform/windows/display-issues.md">ডিসপ্লে সমস্যা</a></li>
+      <li><a href="platform/windows/copy-and-paste.md">কপি এবং পেস্ট সমস্যা</a></li>
+      <li><a href="platform/windows/text-size.md">টেক্সট সাইজ</a></li>
+      <li><a href="platform/windows/permission-problems.md">অনুমতি সমস্যা</a></li>
+    </ul>
+  </li>
+  <li><a href="platform/mac/intro.md">macOS</a>
+    <ul>
+      <li><a href="platform/mac/installing.md">ইনস্টল এবং আপগ্রেড</a></li>
+      <li><a href="platform/mac/display-issues.md">ডিসপ্লে সমস্যা</a></li>
+    </ul>
+  </li>
+  <li><a href="platform/linux/intro.md">Linux</a>
+    <ul>
+      <li><a href="platform/linux/installing.md">ইনস্টল এবং আপগ্রেড</a></li>
+      <li><a href="platform/linux/missing-libraries.md">অনুপস্থিত লাইব্রেরি</a></li>
+      <li><a href="platform/linux/display-issues.md">ডিসপ্লে সমস্যা</a></li>
+      <li><a href="platform/linux/blank-window.md">ফাঁকা মেইন উইন্ডো</a></li>
+      <li><a href="platform/linux/distro-packages.md">Linux ডিস্ট্রো প্যাকেজেস</a></li>
+      <li><a href="platform/linux/gtk-theme.md">ভুল GTK থিম</a></li>
+      <li><a href="platform/linux/wayland.md">Wayland</a></li>
+      <li><a href="platform/linux/input-methods.md">ইনপুট মেথডস</a></li>
+    </ul>
+  </li>
+</ul>
+</details>
+
 - [শুরু করা](getting-started.md)
 - [সাহায্য নেওয়া](getting-help.md)
 - [পড়াশোনা](studying.md)
